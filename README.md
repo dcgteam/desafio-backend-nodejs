@@ -13,9 +13,9 @@ Bem vindo(a)! Obrigado por aceitar o nosso desafio.
 
 # O desafio
 O desafio consiste em criar uma API REST em Node JS para a loja Star Wars que será consumida por um aplicativo (Android e iOS).
-Todos os itens serão colocados em um carrinho do lado do aplicativo e passados para a API para realizar uma transação no e-commerce.
+Todos os itens serão colocados em um carrinho do lado do aplicativo e passados para a API para realizar uma transação no e-commerce. A sua API deverá conter os métodos conforme descrito abaixo.
 
-O(A) candidato(a) tem a liberdade de realizar o desafio com as ferramentas e bibliotecas que preferir, desde que a documentação seja clara assim como os processos de instalação e execução local. A comunicação conta! Escrevemos este material em português, porém encorajamos que seu código e documentação sejam escritos em ingês.
+O(A) candidato(a) tem a liberdade de realizar o desafio com as ferramentas e bibliotecas que preferir, desde que a documentação seja clara assim como os processos de instalação e execução local. A comunicação conta!
 
 ### Requisitos
 - Autenticação nas requisições
