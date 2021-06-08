@@ -1,7 +1,7 @@
 
 # Desafio Back-end - Node JS
 
-Bem vindo(a)! Esse é o STech Challenge DevOps | SRE!
+Bem vindo(a)!
 
 # Antes de começar....
 
