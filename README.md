@@ -1,7 +1,7 @@
 
 # Desafio Back-end - Node JS
 
-Bem vindo(a)!
+Bem vindo(a)! Obrigado por aceitar o nosso desafio.
 
 # Antes de começar....
 
