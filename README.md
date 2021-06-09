@@ -8,7 +8,7 @@ Bem vindo(a)! Obrigado por aceitar o nosso desafio.
 - [Keep it simple](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_KISS), entendemos que você possui suas prioridades e nossa proposta com esse desafio é ter uma idéia geral de como você faz seus códigos, toma suas decisões arquiteturais e o seu conhecimento geral sobre os assuntos abordados.
 - Seu desafio precisa estar versionado no Github, em um repositório público ou privado. Se o repositório for privado, solicite ao RH a lista de emails que deverá receber o acesso ao seu repositório. Não esqueceça de encaminhar o link do repositório no email de retorno!
 - Documentação é primordial e vamos nos guiar por ela ;)
-- A aplicação ser fácil de ser executada localmente, então abuse de scripts em Makefiles e o que for necessário. 
+- A aplicação deve ser fácil de ser executada localmente, então abuse de scripts em Makefiles e o que for necessário. 
 - Não tem problema se você não conseguir finalizar tudo! Não deixe de enviar seu desafio por isso!
 
 # O desafio
